@@ -13,7 +13,7 @@ No spreadsheet, database, or UI code is stored here.
 
 Access
 
-The JSON file is publicly readable but intended only for use by authorized applications that I control.
+The JSON file is publicly readable but intended only for use by authorized applications controlled by 1FupDuck.
 Use outside of these applications is not permitted under the repository license.
 
 License
