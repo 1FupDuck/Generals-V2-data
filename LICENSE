@@ -1,0 +1,41 @@
+Project Generals V2 — Data License
+Version 1.0 — 2025-08-15
+
+Copyright (c) 2025 1FupDuck. All rights reserved.
+
+1) Scope
+This repository contains data files (including, without limitation, “generals.json”) intended solely for use by the official Project Generals V2 user interface (“Official UI”).
+
+2) Limited Permission
+You are granted a limited, non-exclusive, non-transferable, revocable permission to:
+  a) Request and display the data via the Official UI, and
+  b) Temporarily cache it in a browser or application solely as needed for that display.
+
+3) Prohibited Uses
+Except as expressly permitted in Section 2, you may NOT:
+  a) Copy, reproduce, mirror, or redistribute the data, in whole or in part;
+  b) Use the data in any other application, tool, website, service, dataset, or model;
+  c) Create derivative works or combined datasets that include this data;
+  d) Scrape, bulk download, or systematically harvest the data;
+  e) Use the data for any commercial purpose without prior written permission.
+
+4) Attribution & Integrity
+You may not remove, alter, or obscure any notices, metadata, or fields (including “version” and “updated_at”). You must not modify the data when used in the Official UI.
+
+5) Rate Limits & Technical Controls
+You agree not to bypass or interfere with any technical measures, rate limits, or access controls that may be introduced now or in the future.
+
+6) No Warranty
+THE DATA IS PROVIDED “AS IS”, WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED. THE OWNER DISCLAIMS ALL WARRANTIES, INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+7) Liability
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE OWNER SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING FROM USE OF THE DATA.
+
+8) Termination
+This permission terminates automatically if you breach these terms. Upon termination, you must cease all use and delete any copies or caches of the data.
+
+9) Reservation of Rights
+All rights not expressly granted are reserved by the Owner.
+
+10) Contact
+For licensing requests, permissions, or questions: contact via GitHub at https://github.com/1FupDuck
